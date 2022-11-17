@@ -1,0 +1,8 @@
+1.  MORNING
+  1.1 Eggs
+  1.2 Milk
+
+2.  AFTERNOON
+
+  2.1 Chicken
+  2.2 Chapathi

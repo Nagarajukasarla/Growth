@@ -1,0 +1,5 @@
+morning:
+1) Banana - 3
+2) Milk
+3) Chicken - 100gm
+4) Juice
